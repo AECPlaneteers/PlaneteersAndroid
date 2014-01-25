@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/background_selected" android:state_pressed="true"/>
+    <item android:drawable="@android:color/transparent"/>
+
+</selector><!-- From: file:/Users/christianyaglenski/Documents/Android_Workspace/Citrrus/AEC%20Hackathon%202014/PlaneteersAndroid/aec-2014-planeteers/app/src/main/res/drawable/list_item_background.xml -->
